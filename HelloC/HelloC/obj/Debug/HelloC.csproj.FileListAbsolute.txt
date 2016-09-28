@@ -1,0 +1,6 @@
+c:\users\diz\documents\visual studio 2015\Projects\HelloC\HelloC\bin\Debug\HelloC.exe.config
+c:\users\diz\documents\visual studio 2015\Projects\HelloC\HelloC\obj\Debug\HelloC.csprojResolveAssemblyReference.cache
+c:\users\diz\documents\visual studio 2015\Projects\HelloC\HelloC\bin\Debug\HelloC.exe
+c:\users\diz\documents\visual studio 2015\Projects\HelloC\HelloC\bin\Debug\HelloC.pdb
+c:\users\diz\documents\visual studio 2015\Projects\HelloC\HelloC\obj\Debug\HelloC.exe
+c:\users\diz\documents\visual studio 2015\Projects\HelloC\HelloC\obj\Debug\HelloC.pdb

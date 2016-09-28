@@ -1,1 +1,9 @@
 test
+
+git status
+
+git add --all
+
+git comit -m - davame message/ime
+
+git push origin master - slagame projects on the server
