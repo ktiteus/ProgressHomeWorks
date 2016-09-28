@@ -25,7 +25,7 @@ class Program
                 posDigit += 1;
                 digit = posDigit;
             }
-
+			//testing
         }
 
     }
